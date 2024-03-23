@@ -16,8 +16,8 @@ This repository contains code for a gesture tracking project that utilizes compu
 
 ## Installation
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Gesture-Tracker.git
+   ```
+   (https://github.com/pinak2161/Gesture-Tracker/tree/main)
    ```
 2. Install the required dependencies:
    ```bash
@@ -44,5 +44,3 @@ https://github.com/pinak2161/Gesture-Tracker/assets/130877143/2b781cf2-4252-4304
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
 
-
-Replace `<your-username>` with your actual GitHub username. You can add a link to your video demonstration by replacing `https://example.com` with the actual URL of your video.
